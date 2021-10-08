@@ -64,6 +64,7 @@ a{
 }
   li{
       list-style: none;
+}
 .pagenumber{
     float: right;
     font-size: 30px;
